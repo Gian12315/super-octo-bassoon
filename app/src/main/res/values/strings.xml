@@ -1,0 +1,18 @@
+<resources>
+        <string name="app_name">ConfiguracionArduino</string>
+        <string name="bluetooth_unsupported">Dispositivo no compatible</string>
+        <string name="bluetooth_request_enable">Enciende el bluetooth</string>
+        <string name="bluetooth_begin_scan">Iniciar búsqueda</string>
+        <string name="send_message">Enviar</string>
+        <string name="message_to_send">Mensaje para enviar al dispositivo</string>
+        <string name="bt_device_name">Dispositivo:</string>
+        <string name="bt_device_address">Dirección:</string>
+        <string name="wifi_ssid_input">Nombre WiFi:</string>
+        <string name="wifi_pass_input">Contraseña:</string>
+        <string name="btn_save">Guardar</string>
+        <string name="btn_fetch_ard_info">Refrescar</string>
+        <string name="ard_server_url">Servidor:</string>
+        <string name="ard_send_interval">Intervalo de envío (segundos):</string>
+        <string name="btn_ard_start">Encender</string>
+        <string name="btn_ard_shutdown">Apagar</string>
+    </resources>
