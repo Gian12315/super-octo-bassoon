@@ -1,6 +1,5 @@
 <resources>
         <string name="app_name">ConfiguracionArduino</string>
-        <string name="bluetooth_unsupported">Dispositivo no compatible</string>
         <string name="bluetooth_request_enable">Enciende el bluetooth</string>
         <string name="bluetooth_begin_scan">Iniciar búsqueda</string>
         <string name="send_message">Enviar</string>

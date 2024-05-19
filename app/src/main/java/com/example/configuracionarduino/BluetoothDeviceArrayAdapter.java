@@ -24,9 +24,8 @@ public class BluetoothDeviceArrayAdapter extends ArrayAdapter<BluetoothDevice> {
     }
 
     @SuppressLint("MissingPermission")
-    @NonNull
     @Override
-    public View getView(int position, @Nullable View convertView, @NonNull ViewGroup parent) {
+    public View getView(int position, View convertView, ViewGroup parent) {
         LayoutInflater inflater = LayoutInflater.from(getContext());
         View item = inflater.inflate(R.layout.bluetooth_device_item, null);
 
